@@ -1,0 +1,4 @@
+baseURL = "https://NordNavel.github.io"
+publishDir = "docs"
+languageCode = "en"
+theme = "blowfish"
